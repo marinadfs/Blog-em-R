@@ -23,7 +23,7 @@ params:
   social:
     - icon: github
       name: Github
-      url: https://github.com/gohugoio
+      url: https://github.com/marinadfs
     - icon: twitter
       name: Twitter
-      url: https://twitter.com/gohugoio
+      url: https://twitter.com/_marinadfs
