@@ -1,4 +1,4 @@
-baseURL = "https://mariandfsr.netlify.app"
+baseURL = "https://marinadfsr.netlify.app"
 title = "Your title"
 themesDir = "../.."
 theme = "m10c"
