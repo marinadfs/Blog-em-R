@@ -22,17 +22,17 @@ paginate = 8
     weight = 3
 
 [params]
-  author = "John Doe"
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  author = "Marina de Faria Silva"
+  description = "Primeiro Blog usando R"
   menu_item_separator = " - "
   [[params.social]]
     icon = "github"
     name = "Github"
-    url = "https://github.com/gohugoio"
+    url = "https://github.com/marinadfs"
   [[params.social]]
     icon = "twitter"
     name = "Twitter"
-    url = "https://twitter.com/gohugoio"
+    url = "https://twitter.com/_marinadfs"
 
   # Default theme
   #[params.style]
